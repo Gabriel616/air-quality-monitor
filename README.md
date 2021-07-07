@@ -1,1 +1,1 @@
-# indoor-air-quality-monitor
+# air-quality-monitor
